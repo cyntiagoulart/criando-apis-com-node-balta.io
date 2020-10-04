@@ -1,0 +1,25 @@
+{
+  "name": "criando-apis-com-node-balta.io",
+  "version": "1.0.0",
+  "description": "Repositório de código do curso Criando APIs com Node, do https://app.balta.io/.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyntiagoulart/criando-apis-com-node-balta.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyntiagoulart/criando-apis-com-node-balta.io/issues"
+  },
+  "homepage": "https://github.com/cyntiagoulart/criando-apis-com-node-balta.io#readme",
+  "dependencies": {
+    "debug": "^4.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
